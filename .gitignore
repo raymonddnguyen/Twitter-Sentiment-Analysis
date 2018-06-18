@@ -3,3 +3,4 @@ __pycache__
 .ipynb_checkpoints
 PBL twitter api access batch-Zia.pdf
 tweepy streaming Zia_class.pdf
+.DS_Store
